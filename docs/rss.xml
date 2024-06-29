@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ChALyX's Collection</title><link>https://ChALyX.github.io</link><description>Neo was here</description><copyright>ChALyX's Collection</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/103485592?v=4</url><title>avatar</title><link>https://ChALyX.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 12:53:54 +0000</lastBuildDate><managingEditor>ChALyX's Collection</managingEditor><ttl>60</ttl><webMaster>ChALyX's Collection</webMaster><item><title>[CS2] 急停cfg</title><link>https://ChALyX.github.io/post/%5BCS2%5D%20-ji-ting-cfg.html</link><description>`//使用方法看结尾&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ChALyX's Collection</title><link>https://ChALyX.github.io</link><description>Neo was here</description><copyright>ChALyX's Collection</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/103485592?v=4</url><title>avatar</title><link>https://ChALyX.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 13:06:33 +0000</lastBuildDate><managingEditor>ChALyX's Collection</managingEditor><ttl>60</ttl><webMaster>ChALyX's Collection</webMaster><item><title>[CS2] 准心Crosshairs</title><link>https://ChALyX.github.io/post/%5BCS2%5D%20-zhun-xin-Crosshairs.html</link><description>### Niko&#13;
+`CSGO-NeiXi-xkUJ4-TZfUa-6EDnp-nTkoE`&#13;
+![image](https://github.com/ChALyX/ChALyX.github.io/assets/103485592/29a3c78d-447d-43be-a82c-e4e5be1f7c27)&#13;
+&#13;
+### ChALyX &#13;
+`CSGO-DoZVT-SM9ar-xZJtt-F9J4j-NNh8E`&#13;
+![image](https://github.com/ChALyX/ChALyX.github.io/assets/103485592/fa2153a0-3ef0-4347-9608-99cb5c81f443)&#13;
+。</description><guid isPermaLink="true">https://ChALyX.github.io/post/%5BCS2%5D%20-zhun-xin-Crosshairs.html</guid><pubDate>Sat, 29 Jun 2024 13:05:55 +0000</pubDate></item><item><title>[CS2] 急停cfg</title><link>https://ChALyX.github.io/post/%5BCS2%5D%20-ji-ting-cfg.html</link><description>`//使用方法看结尾&#13;
 alias '+_forward' '+forward; forwardback 0.0001 0 0';&#13;
 alias '-_forward' '-forward; forwardback -0.0001 0 0;rightleft 0 0 0';&#13;
 &#13;
