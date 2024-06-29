@@ -1,2 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ChALyX's Collection</title><link>https://ChALyX.github.io</link><description>Neo was here</description><copyright>ChALyX's Collection</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/103485592?v=4</url><title>avatar</title><link>https://ChALyX.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 12:48:55 +0000</lastBuildDate><managingEditor>ChALyX's Collection</managingEditor><ttl>60</ttl><webMaster>ChALyX's Collection</webMaster><item><title>Hi</title><link>https://ChALyX.github.io/post/Hi.html</link><description>`print('hello')`。</description><guid isPermaLink="true">https://ChALyX.github.io/post/Hi.html</guid><pubDate>Sat, 29 Jun 2024 12:43:47 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ChALyX's Collection</title><link>https://ChALyX.github.io</link><description>Neo was here</description><copyright>ChALyX's Collection</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/103485592?v=4</url><title>avatar</title><link>https://ChALyX.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 12:53:54 +0000</lastBuildDate><managingEditor>ChALyX's Collection</managingEditor><ttl>60</ttl><webMaster>ChALyX's Collection</webMaster><item><title>[CS2] 急停cfg</title><link>https://ChALyX.github.io/post/%5BCS2%5D%20-ji-ting-cfg.html</link><description>`//使用方法看结尾&#13;
+alias '+_forward' '+forward; forwardback 0.0001 0 0';&#13;
+alias '-_forward' '-forward; forwardback -0.0001 0 0;rightleft 0 0 0';&#13;
+&#13;
+alias '+_back' '+back; forwardback -0.0001 0 0';&#13;
+alias '-_back' '-back; forwardback 0.0001 0 0;rightleft 0 0 0';&#13;
+&#13;
+alias '+_left' '+left; rightleft -0.0001 0 0';&#13;
+alias '-_left' '-left; rightleft 0.0001 0 0;forwardback 0 0 0';&#13;
+&#13;
+&#13;
+alias '+_right' '+right; rightleft 0.0001 0 0';&#13;
+alias '-_right' '-right; rightleft -0.0001 0 0;forwardback 0 0 0';&#13;
+&#13;
+alias '+_forward1' '+forward; forwardback 0.0001 0 0';&#13;
+alias '-_forward1' '-forward; forwardback 0 0 0';&#13;
+&#13;
+alias '+_back1' '+back; forwardback -0.0001 0 0';&#13;
+alias '-_back1' '-back; forwardback 0 0 0';&#13;
+&#13;
+alias '+_left1' '+left; rightleft -0.0001 0 0';&#13;
+alias '-_left1' '-left; rightleft 0 0 0';&#13;
+&#13;
+alias '+_right1' '+right; rightleft 0.0001 0 0';&#13;
+alias '-_right1' '-right; rightleft 0 0 0';&#13;
+&#13;
+alias '+xjt' 'bind 'w' '+_forward';bind 's' '+_back';bind 'a' '+_left';bind 'd' '+_right';';&#13;
+alias '+ljt' 'bind 'w' '+_forward1';bind 's' '+_back1';bind 'a' '+_left1';bind 'd' '+_right1';';&#13;
+&#13;
+alias '+jt' '+ljt';&#13;
+alias '-jt' '+xjt';&#13;
+alias '+jt1' '+xjt';&#13;
+alias '-jt1' '+ljt';&#13;
+bind alt '+jt';&#13;
+//bind CAPSLOCK '+Ljt';&#13;
+&#13;
+bind 'w' '+_forward';&#13;
+bind 's' '+_back';&#13;
+bind 'a' '+_left';&#13;
+bind 'd' '+_right'&#13;
+&#13;
+alias 'huifu' 'echo 已经取消辅助急停，恢复默认移动设置。</description><guid isPermaLink="true">https://ChALyX.github.io/post/%5BCS2%5D%20-ji-ting-cfg.html</guid><pubDate>Sat, 29 Jun 2024 12:53:18 +0000</pubDate></item><item><title>Hi</title><link>https://ChALyX.github.io/post/Hi.html</link><description>`print('hello')`。</description><guid isPermaLink="true">https://ChALyX.github.io/post/Hi.html</guid><pubDate>Sat, 29 Jun 2024 12:43:47 +0000</pubDate></item></channel></rss>
